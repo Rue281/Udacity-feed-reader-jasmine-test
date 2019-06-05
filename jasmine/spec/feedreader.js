@@ -52,10 +52,7 @@ $(function() {
 
 
 
-        /* TODO: Write a test that ensures the menu element is
-         * hidden by default. You'll have to analyze the HTML and
-         * the CSS to determine how we're performing the
-         * hiding/showing of the menu element.
+        /* ensures the menu element ishidden by default. 
          */
          it('menu hidden by default',function(){
             /*let menu = document.querySelector('.slide-menu');
